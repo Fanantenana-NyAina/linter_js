@@ -2,4 +2,5 @@ function getName(user) {
     return "Hello " + user
 }
 
-getName("Fanantenana")
+let user = "Fanantenana"
+getName(user)
