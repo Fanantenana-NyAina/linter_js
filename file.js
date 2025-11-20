@@ -1,4 +1,4 @@
-function getName(user) {
+function getName(user, error) {
     return "Hello " + user
 }
 
